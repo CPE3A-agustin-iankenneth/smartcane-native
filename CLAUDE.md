@@ -13,7 +13,7 @@ This repository contains the React Native (Expo) mobile application for the Smar
 
 ## Technology Stack
 * **Framework:** React Native with Expo (Managed Workflow).
-* **AI/Vision:** `react-native-fast-tflite`, using a pre-trained YOLOv8 Nano model (`yolov8n.tflite`).
+* **AI/Vision:** `react-native-fast-tflite`, using a pre-trained YOLOv8 Nano model from Ultralytics (`yolov8n.tflite`).
 * **Hardware/Sensors:** `expo-location` (GPS tracking), `expo-speech` (Voice TTS), `expo-camera` (if needed for testing vision pipeline before hardware integration).
 * **Backend Integration:** `@supabase/supabase-js`.
 
